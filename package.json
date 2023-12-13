@@ -1,0 +1,10 @@
+{
+  "title": "CA Task",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "casual": "^1.6.2"
+  }
+}
